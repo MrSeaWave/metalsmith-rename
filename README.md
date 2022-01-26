@@ -2,8 +2,8 @@
 
 重命名文件的 metalsmith 插件
 
-![npm (scoped)](https://img.shields.io/npm/v/@swjs/metalsmith-rename)
-![npm](https://img.shields.io/npm/dw/@swjs/metalsmith-rename)
+[![npm (scoped)](https://img.shields.io/npm/v/@swjs/metalsmith-rename)](https://www.npmjs.com/package/@swjs/metalsmith-rename)
+[![npm](https://img.shields.io/npm/dw/@swjs/metalsmith-rename)](https://www.npmjs.com/package/@swjs/metalsmith-rename)
 [![TESTS CI](https://github.com/MrSeaWave/metalsmith-rename/actions/workflows/tests.yml/badge.svg?branch=main&event=push)](https://github.com/MrSeaWave/metalsmith-rename/actions/workflows/tests.yml)
 [![codecov](https://codecov.io/gh/MrSeaWave/metalsmith-rename/branch/main/graph/badge.svg?token=u4OCGK2Cuw)](https://codecov.io/gh/MrSeaWave/metalsmith-rename)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
