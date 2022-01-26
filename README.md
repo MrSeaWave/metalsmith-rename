@@ -2,6 +2,8 @@
 
 重命名文件的 metalsmith 插件
 
+[![TESTS CI](https://github.com/MrSeaWave/metalsmith-rename/actions/workflows/tests.yml/badge.svg?branch=main&event=push)](https://github.com/MrSeaWave/metalsmith-rename/actions/workflows/tests.yml)
+
 ## 安装
 
 ```bash
