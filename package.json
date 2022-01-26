@@ -1,6 +1,6 @@
 {
   "name": "@swjs/metalsmith-rename",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "重命名文件的 metalsmith 插件",
   "keywords": [
     "metalsmith",

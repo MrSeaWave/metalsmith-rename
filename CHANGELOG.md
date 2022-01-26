@@ -6,4 +6,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## Unreleased
 
-- init 
+## [v0.0.1] - 2022-01-26
+
+- init，重命名文件的 metalsmith 插件
+
